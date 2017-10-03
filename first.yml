@@ -1,3 +1,4 @@
+---
 - name: Add two interfaces without committing any changes
   nclu:
     commands:
