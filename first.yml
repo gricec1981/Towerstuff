@@ -1,0 +1,5 @@
+- name: Add two interfaces without committing any changes
+  nclu:
+    commands:
+        - add int swp1
+        - add int swp2
